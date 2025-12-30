@@ -1,3 +1,17 @@
+## Como executar localmente
+
+1. Clonar o repositório:
+   git clone https://github.com/profpatriciarodriguesalmeida/studytrack-svelte.git
+
+2. Entrar na pasta do projeto:
+   cd studytrack-svelte
+
+3. Instalar as dependências:
+   npm install
+
+4. Iniciar o servidor de desenvolvimento:
+   npm run dev
+
 # Svelte + Vite
 
 This template should help get you started developing with Svelte in Vite.
